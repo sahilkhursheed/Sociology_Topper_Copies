@@ -1,7 +1,7 @@
 # Sociology Optional — Topper Answer Copies Viewer
 
 A zero-dependency Node.js utility and interactive browser-based viewer for UPSC Sociology Optional topper answer copies. The script fetches curated question datasets from Google Sheets, parses and normalizes topper metadata, links each question to its original Google Drive PDF page, and compiles everything into a standalone HTML viewer.
----
+
 
 ## Disclaimer
 
