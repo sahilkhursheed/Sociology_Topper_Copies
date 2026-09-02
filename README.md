@@ -30,4 +30,4 @@ A zero-dependency Node.js utility and interactive browser-based viewer for UPSC 
 2. Run the script:
 
 ```bash
- socio.js
+ node socio.js
