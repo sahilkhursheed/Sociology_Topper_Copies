@@ -26,8 +26,8 @@ A zero-dependency Node.js utility and interactive browser-based viewer for UPSC 
 
 ## Quick Start
 
-1. Save the script as `build_viewer.js`.
+1. Save the script as `socio.js`.
 2. Run the script:
 
 ```bash
-node build_viewer.js
+ socio.js
