@@ -6,8 +6,6 @@ A zero-dependency Node.js utility and interactive browser-based viewer for UPSC 
 ## Disclaimer
 
 All content linked here has been originally created and published by their respective institutions and is publicly available on their official websites. No ownership is claimed over any of the materials. The files have only been compiled and organized to assist students in easy access and navigation. If any content owner has concerns or wishes their material to be removed, please contact me, and I will take prompt action.
----
----
 
 ## Features
 
