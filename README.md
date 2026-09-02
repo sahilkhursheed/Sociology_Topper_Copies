@@ -27,8 +27,38 @@ A zero-dependency Node.js utility and interactive browser-based viewer for UPSC 
 
 ## Quick Start
 
-1. Save the script as `socio.js`.
-2. Run the script:
+### Step 1: Install Node.js (One-Time Setup)
+This project runs using a free tool called **Node.js**.
 
-```bash
- node socio.js
+1. Visit [nodejs.org](https://nodejs.org/).
+2. Download the version labeled **LTS** (Long Term Support).
+3. Run the downloaded installer and keep clicking **Next** until it finishes.
+
+---
+
+### Step 2: Download This Project
+1. Scroll to the top of this GitHub page.
+2. Click the green **Code** button and select **Download ZIP**.
+3. Locate the downloaded ZIP file on your computer, right-click it, and select **Extract All** (Windows) or double-click to unzip (Mac).
+
+---
+
+### Step 3: Open the Project Folder in Terminal
+
+#### On Windows:
+1. Open the unzipped folder.
+2. Click on the folder's address bar at the top of File Explorer.
+3. Type `cmd` and press **Enter**. A black command window will open directly in this folder.
+
+#### On Mac:
+1. Open the unzipped folder in **Finder**.
+2. Right-click the folder (or hold `Control` and click).
+3. Select **New Terminal at Folder** (or open the Terminal app and drag the folder into it).
+
+---
+
+### Step 4: Run the Viewer
+
+Copy and paste this command into your terminal/command window, then press **Enter**:
+```
+node socio.js
