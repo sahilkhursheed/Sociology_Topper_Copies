@@ -26,7 +26,10 @@ A zero-dependency Node.js utility and interactive browser-based viewer for UPSC 
 ---
 
 ## Quick Start
+### Method 1:
+Directly download the socio.html and run.
 
+### Method 2:
 ### Step 1: Install Node.js (One-Time Setup)
 This project runs using a free tool called **Node.js**.
 
